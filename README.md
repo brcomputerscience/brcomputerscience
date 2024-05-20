@@ -1,6 +1,6 @@
 # The Bridgewater-Raritan Computer Science Club
 
-This is the official GitHub of the [**Bridgewater Raritan Computer Science Club**](https://brcomputerscience.github.io)!
+This is the Official GitHub of the [**Bridgewater Raritan Computer Science Club**](https://brcomputerscience.github.io)!
 
 [**Bridgewater-Raritan Computer Science GitHub Organization**](https://github.com/brcomputerscience-org) | [**Sigma Computer Science Hackathon Team**](https://github.com/sigmacompsci) | [**IntrepidMaths**](https://github.com/intrepidmaths)
 
