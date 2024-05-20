@@ -10,6 +10,6 @@ This is the Official GitHub of the [**Bridgewater Raritan Computer Science Club*
 
 Accounts followed by this account must be BRCS leaders only
 
-This account should be used for BRCS demos and club purposes, SigmaCS purposes, and whatever BRCS leaders want to do with this account
+This account should be used for BRCS demos and club purposes, SigmaCS purposes, and whatever BRCS leaders want to do with this account, typically used by a programming languages leader
 
 The BRCS Organization GitHub is where all event files and other files are stored
